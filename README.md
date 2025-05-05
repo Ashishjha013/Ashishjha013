@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **Ashish Kumar Jha**!  <br>💻 **Full-Stack Developer | Data Analytics Enthusiast**  <br>🚀 Passionate about coding, problem-solving, and building cool projects.  <br>📚 BCA @ Amity Online | Exploring DSA & Web Development  <br>🎯 Currently honing my skills in **Java, Python, and Data Analytics**.  <br>⚡ Love hackathons, open-source, and tech challenges!
+👋 Hi, I'm **Ashish Kumar Jha**!  <br>💻 **Full-Stack Developer Enthusiast**  <br>🚀 Passionate about coding, problem-solving, and building cool projects.  <br>📚 BCA @ Amity Online | Exploring DSA & Web Development  <br>🎯 Currently honing my skills in **Java, Python, and Data Analytics**.  <br>⚡ Love hackathons, open-source, and tech challenges!
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashishjha013&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashishjha013&limit=5&theme=dark&combine_all_yearly_contributions=true)
