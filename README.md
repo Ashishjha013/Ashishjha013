@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **Ashish Kumar Jha**!  <br>💻 **Full-Stack Developer Enthusiast**  <br>🚀 Passionate about coding, problem-solving, and building cool projects.  <br>📚 BCA @ Amity Online | Exploring DSA & Web Development  <br>🎯 Currently honing my skills in **Java, Python**.  <br>⚡ Love hackathons, open-source, and tech challenges!
+👋 Hi, I'm **Ashish Kumar Jha**!  <br>💻 **Full-Stack Developer Enthusiast**  <br>🚀 Passionate about coding, problem-solving, and building cool projects.  <br>📚 BCA @ Amity Online | Exploring Web Development & DSA <br>🎯 Currently honing my skills in **Java, Python**.  <br>⚡ Love hackathons, open-source, and tech challenges!
 
 
 ## 🌐 Socials:
