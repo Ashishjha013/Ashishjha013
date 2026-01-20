@@ -1,6 +1,5 @@
 # 💫 About Me
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ashishjha013&label=Profile%20Views&color=blue&style=flat)
 
 👋 Hi, I'm **Ashish Kumar Jha**  
 💻 **Backend Developer Enthusiast**  
@@ -11,7 +10,9 @@
 
 ---
 
-👉 You can also check my work here:  
+![Visitor Count](https://komarev.com/ghpvc/?username=ashishjha013&label=Profile%20Views&color=blue&style=flat)
+
+###👉 You can also check my work here:  
 🌐 **Portfolio:** https://aashishjha.me/
 
 ---
