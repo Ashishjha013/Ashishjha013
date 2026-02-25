@@ -27,11 +27,11 @@
 🔗 **Visit my portfolio:**  
 👉 https://aashishjha.me/
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashishjha013&label=Profile+Views&color=FF8C00&style=flat"/>
 </p>
-
----
 
 ## 🤝 Connect With Me
 
@@ -53,10 +53,4 @@
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:FF8C00&height=120&section=footer"/>
 </p>
