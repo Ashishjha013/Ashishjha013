@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF8C00&center=true&vCenter=true&width=750&lines=Backend+Systems+Builder+in+Progress;JavaScript+%7C+Node.js+%7C+Backend+Development;Learning+by+Building+Real+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF8C00&center=true&vCenter=true&width=800&lines=Backend+Systems+Builder+in+Progress;Aspiring+Backend+Developer;Actively+Preparing+for+Internships"/>
 </p>
 
 ---
@@ -14,11 +14,11 @@
 
 👋 Hi, I'm **Ashish Kumar Jha**  
 
-💻 Backend Developer Enthusiast  
-🚀 Passionate about building **scalable backend systems**  
+💻 Aspiring **Backend Developer**  
+🚀 Passionate about building real backend systems and solving practical problems  
 📚 **BCA @ Amity Online** — Learning by building, not just consuming  
-🎯 Currently deepening my skills in **JavaScript & Backend Development**  
-⚡ Open-source curious • System thinker • Growth mindset  
+🎯 Currently focused on **JavaScript & Backend Development**  
+⚡ Curious learner • Growth mindset • Consistent builder  
 
 ---
 
@@ -28,14 +28,46 @@
 
 ---
 
-## 🛠 Tech Focus
+## 🛠 Tech Stack
 
-- JavaScript (Core + Advanced)  
-- Node.js & Backend Fundamentals  
-- REST APIs  
-- Authentication Basics  
-- Databases (SQL & NoSQL — learning phase)  
-- Writing clean & scalable backend code  
+<p align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FF8C00?style=for-the-badge)
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 Backend / Full-Stack Practice Projects
+
+**Smart Study Planner**  
+- Productivity planner with analytics & tracking  
+- Built using React + Node.js + Express + MongoDB  
+- Focus: backend logic, data flow, API handling  
+
+**JavaScript Logic & DOM Projects**  
+- Hands-on projects focused on JS fundamentals & problem solving  
+- Improved understanding of async, events, and data handling  
+
+*(More projects coming as I progress through backend & full-stack development)*  
+
+---
+
+## 🎯 Career Goal
+
+I am actively preparing for a **Backend Developer Internship** where I can:
+
+- Apply backend fundamentals in real projects  
+- Learn production-level development practices  
+- Improve system thinking & problem solving  
+- Contribute, learn, and grow consistently  
 
 ---
 
@@ -73,18 +105,10 @@
 ## 🌱 Mindset
 
 - Build → Break → Learn → Improve  
-- Clarity over complexity  
+- Strong fundamentals first  
 - Consistency over intensity  
-- Focus on strong fundamentals  
+- Clarity over complexity  
 - Long-term engineering mindset  
-
----
-
-## 📌 Current Focus
-
-🔁 Strengthening backend fundamentals  
-🔍 Writing cleaner, more scalable code  
-🚀 Building real-world backend projects  
 
 ---
 
