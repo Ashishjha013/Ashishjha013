@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF8C00&center=true&vCenter=true&width=800&lines=Backend+Systems+Builder+in+Progress;Aspiring+Backend+Developer;Actively+Preparing+for+Internships"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF8C00&center=true&vCenter=true&width=800&lines=Backend+Developer;Backend+Systems+Builder;Building+Real+World+Systems"/>
 </p>
 
 ---
