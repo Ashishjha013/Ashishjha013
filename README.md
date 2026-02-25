@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF8C00&center=true&vCenter=true&width=750&lines=Backend+Developer+in+Progress;JavaScript+%7C+Node.js+%7C+System+Design;Building+Scalable+Backend+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF8C00&center=true&vCenter=true&width=750&lines=Backend+Systems+Builder+in+Progress;JavaScript+%7C+Node.js+%7C+Backend+Development;Learning+by+Building+Real+Projects"/>
 </p>
 
 ---
@@ -30,12 +30,12 @@
 
 ## 🛠 Tech Focus
 
-- JavaScript (Core + Advanced Concepts)  
+- JavaScript (Core + Advanced)  
 - Node.js & Backend Fundamentals  
 - REST APIs  
-- Authentication & Authorization  
-- Databases (SQL & NoSQL – learning phase)  
-- System Thinking & Scalable Architecture  
+- Authentication Basics  
+- Databases (SQL & NoSQL — learning phase)  
+- Writing clean & scalable backend code  
 
 ---
 
@@ -75,7 +75,7 @@
 - Build → Break → Learn → Improve  
 - Clarity over complexity  
 - Consistency over intensity  
-- Systems over shortcuts  
+- Focus on strong fundamentals  
 - Long-term engineering mindset  
 
 ---
