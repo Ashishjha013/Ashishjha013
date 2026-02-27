@@ -27,11 +27,10 @@
 🔗 **Visit my portfolio:**  
 👉 https://aashishjha.me/
 
----
+<img src="https://komarev.com/ghpvc/?username=ashishjha013&label=Profile+Views&color=FF8C00&style=flat"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishjha013&label=Profile+Views&color=FF8C00&style=flat"/>
-</p>
+---
+>
 
 ## 🤝 Connect With Me
 
