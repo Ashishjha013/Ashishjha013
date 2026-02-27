@@ -38,7 +38,7 @@
 
 <a href="https://linkedin.com/in/ashishjha13" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>>
+</a>
 
 <a href="mailto:ashishjha1304@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/>
