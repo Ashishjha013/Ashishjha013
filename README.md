@@ -36,19 +36,19 @@
 
 <p>
 
-<a href="https://www.linkedin.com/in/ashishjha13/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<a href="https://linkedin.com/in/ashishjha13" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>>
 
-<a href="mailto:ashishjha1304@gmail.com">
+<a href="mailto:ashishjha1304@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/>
 </a>
 
-<a href="https://x.com/aashishjha01">
+<a href="https://x.com/aashishjha01" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/ashishjha.x/">
+<a href="https://www.instagram.com/ashishjha.x/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
