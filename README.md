@@ -14,7 +14,7 @@
 
 👋 Hi, I'm **Ashish Kumar Jha**  
 
-💻 Aspiring **Backend Developer**  
+💻 **Backend Developer**  
 🚀 Passionate about building real backend systems and solving practical problems  
 📚 **BCA @ Amity Online** — Learning by building, not just consuming  
 🎯 Currently focused on **JavaScript & Backend Development**  
@@ -32,7 +32,7 @@
 ---
 >
 
-## 🤝 Connect With Me
+<h2>🤝 Connect With Me</h2>
 
 <p>
 
