@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/>
 </a>
 
-<a href="https://x.com/aashishjha01" target="_blank">
+<a href="https://x.com/aashishjha_dev" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
 </a>
 
